@@ -2,7 +2,8 @@ header:
   # we have space for 5 small titles (2 of them is Archive and About)
   - titles:
       en      : &EN       Papers
-    url: /papers.html
+    url: /papers
+    key: papers
   - titles:
       en      : &EN       Events
     url: /archive.html
