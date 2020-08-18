@@ -42,6 +42,18 @@
   {%- else -%}
     <header style="display:none;"><h1>{{ _article_title }}</h1></header>
   {%- endif -%}
+  {%- if include.article.cover -%}
+    {%- include snippets/get-nav-url.html path=include.article.cover -%}
+    {%- assign _article_cover = __return -%}
+    <!-- <h2>{{_article_cover}}</h2> -->
+    <div class="hero hero--dark" style='background-image: url("{{_article_cover}}");'>
+      <div class="hero__content">
+        <br>
+        <br>
+        <br>
+      </div>
+    </div>
+  {%- endif -%}  
 {%- endif -%}
 
 {%- if include.semantic != false -%}
