@@ -1,4 +1,17 @@
 header:
+  # we have space for 5 small titles (2 of them is Archive and About)
+  - titles:
+      en      : &EN       Papers
+    url: /papers.html
+  - titles:
+      en      : &EN       Events
+    url: /archive.html
+  - titles:
+      en      : &EN       Demos
+    url: /archive.html
+  - titles:
+      en      : &EN       Team
+    url: /archive.html
   - titles:
       # @start locale config
       en      : &EN       Archive

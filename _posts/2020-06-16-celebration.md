@@ -7,7 +7,7 @@ cover: assets/photos/IMG_6204.JPG
 cover_size: md
 ---
 Good atmosphere at SFI-DigiWell's celebration. We did it! 
-
+<!--more-->
 Part of the recipe for SFI success is to 
  - work well together as a team, 
  - trust from the industry, 
