@@ -223,7 +223,7 @@ defaults:
       path: "test"
     values:
       articles:
-        excerpt_type: html
+        excerpt_type: text
   ## posts
   - scope:
       path: ""
