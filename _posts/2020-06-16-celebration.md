@@ -17,7 +17,9 @@ Part of the recipe for SFI success is to
  
 Congratulations, we are excited about the continuation! 
 
-Erlend H. Vefring Aina Margrethe Berg Fionn Iversen Sergey Alyaev Arvid Nøttvedt
+
+![Erlend H. Vefring and others](/assets/photos/IMG_6204.JPG "Logo Title Text 1")
+Erlend H. Vefring, Aina Margrethe Berg, Fionn Iversen, Sergey Alyaev, Arvid Nøttvedt
 
 ---
 
