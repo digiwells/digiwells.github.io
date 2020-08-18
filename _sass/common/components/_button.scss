@@ -117,6 +117,18 @@
   @extend .button--md;
 }
 
+.large--button--circle{
+    width:100px;
+    height:100px;
+    border-radius:50px;
+    font-size:40px;
+    color:#fff;
+    line-height: 100px !important;
+    text-align:center;
+    background:#000;
+    // vertical-align: middle;
+}
+
 .button--md {
   padding: map-get($button, padding-y) map-get($button, padding-x);
   font-size: map-get($base, font-size);
