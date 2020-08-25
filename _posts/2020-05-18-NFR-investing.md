@@ -7,3 +7,5 @@ modify_date: 2020-08-19
 # cover_size: md
 ---
 
+NFR is seriously investing in research!
+
