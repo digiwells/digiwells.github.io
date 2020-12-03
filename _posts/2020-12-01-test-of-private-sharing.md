@@ -7,6 +7,6 @@ modify_date: 2020-12-01
 
 ### This is the link to the a secret document
 
-[Members can download document](https://norce-my.sharepoint.com/:w:/r/personal/saly_norceresearch_no/Documents/DigiWells/sharing-test/Info.docx?d=w1fbed6b87c654af285ed1c568a0b2121&csf=1&web=1&e=IdqJrM)
+[Members can download document](https://norce-my.sharepoint.com/:w:/g/personal/saly_norceresearch_no/EbjWvh9lfPJKhe0cVooLISEBTmJtLzladewPgzB6GrQqYQ)
 
 
